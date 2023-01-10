@@ -81,6 +81,11 @@ figure img {
 	    margin-left: 1em;
 	}
 }
+@media (max-width: 730px){
+	.matriz-musicdot {
+		width: 90%;
+	}
+}
 @media (max-width: 622px) {
 	.familia-tupfeln {
 	    float: none;
@@ -105,5 +110,10 @@ figure img {
 	.contacto_info-descricao {
 		display: block;
 		margin-left: 1em;
+	}
+}
+@media (max-width:	380px) {
+	.familia-tupfeln {
+		width: 90%;
 	}
 }
